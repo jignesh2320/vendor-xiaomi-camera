@@ -9,6 +9,8 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/camera/proprietary/system/lib64/libcamera_algoup_jni.xiaomi.so:$(TARGET_COPY_OUT_SYSTEM)/lib64/libcamera_algoup_jni.xiaomi.so \
     vendor/xiaomi/camera/proprietary/system/lib64/libcamera_ispinterface_jni.xiaomi.so:$(TARGET_COPY_OUT_SYSTEM)/lib64/libcamera_ispinterface_jni.xiaomi.so \
     vendor/xiaomi/camera/proprietary/system/lib64/libcamera_mianode_jni.xiaomi.so:$(TARGET_COPY_OUT_SYSTEM)/lib64/libcamera_mianode_jni.xiaomi.so \
+    vendor/xiaomi/camera/proprietary/system/lib64/libged_kpi.so:$(TARGET_COPY_OUT_SYSTEM)/lib64/libged_kpi.so \
+    vendor/xiaomi/camera/proprietary/system/lib64/libged_sys.so:$(TARGET_COPY_OUT_SYSTEM)/lib64/libged_sys.so \
     vendor/xiaomi/camera/proprietary/system/lib64/libgui-xiaomi.so:$(TARGET_COPY_OUT_SYSTEM)/lib64/libgui-xiaomi.so \
     vendor/xiaomi/camera/proprietary/system/lib64/libmtkisp_metadata_sys.so:$(TARGET_COPY_OUT_SYSTEM)/lib64/libmtkisp_metadata_sys.so \
     vendor/xiaomi/camera/proprietary/system/lib64/vendor.mediatek.hardware.camera.isphal@1.0.so:$(TARGET_COPY_OUT_SYSTEM)/lib64/vendor.mediatek.hardware.camera.isphal@1.0.so
